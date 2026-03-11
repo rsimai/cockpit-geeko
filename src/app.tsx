@@ -23,7 +23,7 @@ export const Application = () => {
 
     return (
         <Card>
-            <CardTitle>Starter Kit</CardTitle>
+            <CardTitle>Cockpit Geeko</CardTitle>
             <CardBody>
                 <Alert
                     variant="info"
