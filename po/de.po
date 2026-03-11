@@ -14,9 +14,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1\n"
 
-#: src/index.html:20
+#: src/index.html:20 src/manifest.json:0 org.cockpit_project.cockpit_geeko.metainfo.xml:5
 msgid "Cockpit Geeko"
-msgstr "Cockpit Bausatz"
+msgstr "Cockpit Geeko"
 
 #: src/app.jsx:43
 msgid "Running on $0"
@@ -29,10 +29,6 @@ msgstr "Gerüst für ein Cockpit-Modul"
 #: org.cockpit-project.cockpit-geeko.metainfo.xml:8
 msgid "Scaffolding for a cockpit module."
 msgstr "Gerüst für ein Cockpit-Modul."
-
-#: src/manifest.json:0 org.cockpit-project.cockpit-geeko.metainfo.xml:5
-msgid "Cockpit Geeko"
-msgstr "Bausatz"
 
 #: src/app.jsx:29
 msgid "Unknown"
